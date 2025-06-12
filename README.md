@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Array
+|  |
+| ------- |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 <!---LeetCode Topics End-->
