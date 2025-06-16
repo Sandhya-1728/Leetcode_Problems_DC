@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
