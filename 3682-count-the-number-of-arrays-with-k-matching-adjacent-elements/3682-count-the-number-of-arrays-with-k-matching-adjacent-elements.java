@@ -1,33 +1,40 @@
 class Solution {
-  public static final int mod=1000000007;
-    public static final int mx=100000;
-  public static long[] f=new long[mx+1];
-    public static long[] comb=new long[mx+1];
-static{
-  f[0]=1L;
-for(int i=1;i<=mx;i++){
-f[i]=f[i-1]*i%mod;}
-    comb[mx]=modExp(f[mx],mod-2,mod);
-  for(int i=mx-1;i>=0;i--){
-comb[i]=comb[i+1]*(i+1)%mod;}
-}
-  public static long modExp(long base,int exp,int m){
-long res=1L;
-    while(exp>0){
-if((exp&1)==1){
-res=(res*base)%m;}
-  base=(base*base)%m;
-exp>>=1;}
-      return res;}
-public static long nCr(int n,int r){
-if(r<0||r>n)return 0;
-  return f[n]*comb[r]%mod*comb[n-r]%mod;}
-    public int countGoodArrays(int n,int m,int k){
-if(n==1){
-  return(k==0)?m:0;}
-long pick=nCr(n-1,k);
-    long count=pick%mod;
-count=(count*m)%mod;
-  count=(count*modExp(m-1,n-k-1,mod))%mod;
-    return(int)count;}
+    public int countGoodArrays(int n, int m, int k) {
+        if (fact[0] == 0)
+            fact[0] = 1;
+        long res = m * fastExp(m - 1, n - 1 - k) % MOD * combination(n - 1, n - 1 - k) % MOD;
+        return (int) res;
+    }
+
+    int MOD = 1_000_000_007;
+    static long[] inverse = new long[100001];
+    static int[] fact = new int[100001];
+
+    private long fastExp(int base, int exp) {
+        long result = 1;
+        long mult = base;
+        while (exp > 0) {
+            if ((exp & 1) == 1)
+                result = result * mult % MOD;
+            mult = mult * mult % MOD;
+            exp /= 2;
+        }
+        return result;
+    }
+
+    private long combination(int total, int select) {
+        return (long) factorial(total) * modInv(factorial(total - select)) % MOD * modInv(factorial(select)) % MOD;
+    }
+
+    private long factorial(int n) {
+        if (fact[n] != 0)
+            return fact[n];
+        return fact[n] = (int) (factorial(n - 1) * n % MOD);
+    }
+
+    private long modInv(long x) {
+        if (x == 1)
+            return x;
+        return MOD - MOD / x * modInv(MOD % x) % MOD;
+    }
 }
