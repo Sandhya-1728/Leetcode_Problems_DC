@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0118-pascals-triangle) |
 | [0219-contains-duplicate-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0594-longest-harmonious-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
