@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2704-maximum-difference-by-remapping-a-digit) |
