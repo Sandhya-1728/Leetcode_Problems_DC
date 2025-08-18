@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0118-pascals-triangle) |
 | [0219-contains-duplicate-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0900-reordered-power-of-2) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Heap (Priority Queue)
