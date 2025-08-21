@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Tree
 |  |
@@ -292,10 +295,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1628-count-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0867-new-21-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
