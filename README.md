@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2202-sum-of-k-mirror-numbers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Simulation
 |  |
@@ -322,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1628-count-submatrices-with-all-ones) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
