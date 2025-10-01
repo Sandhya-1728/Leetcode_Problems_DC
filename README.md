@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1642-water-bottles](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1642-water-bottles) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3600-find-the-k-th-character-in-string-game-i) |
