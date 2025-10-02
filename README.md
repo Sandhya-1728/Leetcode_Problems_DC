@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3336-water-bottles-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2479-meeting-rooms-iii) |
+| [3336-water-bottles-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
