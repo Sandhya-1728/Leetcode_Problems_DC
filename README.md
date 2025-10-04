@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0118-pascals-triangle) |
 | [0219-contains-duplicate-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0219-contains-duplicate-ii) |
 | [0498-diagonal-traverse](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0498-diagonal-traverse) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/0011-container-with-most-water) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2497-maximum-matching-of-players-with-trainers) |
