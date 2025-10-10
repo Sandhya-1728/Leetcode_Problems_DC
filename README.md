@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/2529-range-product-queries-of-powers) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Sandhya-1728/Leetcode_Problems_DC/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
